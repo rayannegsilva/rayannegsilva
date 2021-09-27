@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rayanne G Silva.
 
-Sou Estudando de Ciência da Computação pelo IFCE - Campus Aracati. Meu foco de estudo está no desenvolvimento Mobile, principalmente com Flutter e React Native. Venho
+Sou estudante de Ciência da Computação pelo IFCE - Campus Aracati, atualmente no 4º perído. Meu foco de estudo está no desenvolvimento Mobile, principalmente com Flutter e React Native. Venho
 buscando me aprofundar, também, em desenvolvimento web com ReactJS e VueJS.
 
 - 🔭 Trabalho como Front-End

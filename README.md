@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação pelo IFCE - Campus Aracati, atualmente
 buscando me aprofundar, também, em desenvolvimento web com ReactJS.
 
 - 🔭 Trabalho como Front-End
-- 🌱 Estou estudando Mobile
+- 🌱 Estou estudando Mobile e Web.
 
 <!--
 **rayannegsilva/rayannegsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

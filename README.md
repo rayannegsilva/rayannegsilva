@@ -2,8 +2,9 @@
 
 Sou estudante de Ciência da Computação pelo IFCE - Campus Aracati, atualmente no 7º perído. Meu foco de estudo no desenvolvimento Mobile está sendo em React Native, e no web com ReactJs, além do back-end com NodeJs.
 
-- 🔭 Trabalho como Front-End
-- 🌱 Estou estudando Mobile e Web.
+- 🔭 Trabalho como FullStack
+- 🌱 Estou focando em Backend e Design Patterns
+- 🌱 Estou focando em Frontend e Mobile, utilizando ReactJS e NextJs
 
 <!--
 **rayannegsilva/rayannegsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +32,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Ray-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <!-- 
- <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
--->
-   <img align="center" alt="Ray-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Ray-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Ray-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="Ray-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+       <img align="center" alt="Ray-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
    <!-- <img align="center" alt="Ray-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"> -->
 </div>
  

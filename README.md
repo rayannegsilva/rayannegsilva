@@ -1,10 +1,19 @@
-### Olá! Eu sou a Rayanne G Silva.
+# Hello, my name is Rayanne Giló
 
-Sou estudante de Ciência da Computação pelo IFCE - Campus Aracati, atualmente no 7º perído. Meu foco de estudo no desenvolvimento Mobile está sendo em React Native, e no web com ReactJs, além do back-end com NodeJs.
+Important links! 👇
 
-- 🔭 Trabalho como FullStack
-- 🌱 Estou focando em Backend e Design Patterns
-- 🌱 Estou focando em Frontend e Mobile, utilizando ReactJS e NextJs
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rayannegsilva)](https://github.com/rayannegsilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanne-gil%C3%B3-da-silva-994934215/)](https://www.linkedin.com/in/rayanne-gil%C3%B3-da-silva-994934215/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgilodasilva@gmail.com)](mailto:rgilodasilva@gmail.com)
+
+## About me
+
+I am passionate about developing solutions that can help people in a practical way. Now, I find myself in the 8th period of Bachelor's Degree in Computer Science.
+
+I'm enthusiastic about **React JS**, **Node JS**, **Typescript**. And passionate about music!
+
+- 🔭 I work with FullStack.
+- 🌱 I've been studying Java, Designer Patterns and Clean Architecture.
 
 <!--
 **rayannegsilva/rayannegsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +32,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/rayannegsilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rayannegsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannegsilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rayannegsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannegsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -41,12 +50,3 @@ Here are some ideas to get you started:
  
  ##
  
-<div style="display: inline_block"> 
-  <a href="https://instagram.com/raywgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-<a href = "mailto:rgilodasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rayanne-gil%C3%B3-da-silva-994934215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
- <!-- ![Snake animation](https://github.com/rayannegsilva/rayannegsilva/blob/output/github-contribution-grid-snake.svg) -->
- 
- </div>

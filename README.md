@@ -10,10 +10,10 @@ Important links! 👇
 
 I am passionate about developing solutions that can help people in a practical way. Now, I find myself in the 8th period of Bachelor's Degree in Computer Science.
 
-I'm enthusiastic about **React JS**, **Node JS**, **Typescript**. And passionate about music!
+I'm enthusiastic about **Java**, **React JS**, **Node JS**, **Typescript**. And passionate about music!
 
-- 🔭 I work with FullStack.
-- 🌱 I've been studying Java, Designer Patterns and Clean Architecture.
+<!--- 🔭 I work with FullStack.
+- 🌱 I've been studying Java, Designer Patterns and Clean Architecture. --!>
 
 <!--
 **rayannegsilva/rayannegsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
